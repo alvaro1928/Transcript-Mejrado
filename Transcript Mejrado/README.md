@@ -86,4 +86,4 @@ Información de contacto para preguntas o soporte.
 
 - **Nombre**: Alvaro Contreras
 - **Email**: alvarocontreras35@gmail.com
-- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
+- **GitHub**: [tu-usuario](https://github.com/alvaro1928)
